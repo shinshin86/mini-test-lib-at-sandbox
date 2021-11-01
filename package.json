@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "fmt": "prettier --write '**/*.{js,json,md}'"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
