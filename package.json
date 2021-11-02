@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "testrun": "node lib/test-runner.js",
     "fmt": "prettier --write '**/*.{js,json,md}'"
   },
   "prettier": {
